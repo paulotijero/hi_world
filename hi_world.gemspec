@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'hi_world'
-  s.version     = '1.0.1'
+  s.version     = '0.0.1'
   s.date        = '2019-05-12'
   s.summary     = 'This is my first gem in rubygems'
   s.description = 'The only work that this gem performs is to say hi world'
