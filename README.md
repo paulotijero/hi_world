@@ -32,4 +32,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://github.com/paulotijero/hi-world/blob/master/LICENSE)
+[MIT](https://github.com/paulotijero/hi_world/blob/master/LICENSE)
